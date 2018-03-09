@@ -2,4 +2,8 @@ print ('hello world')
 print ('hello world2')
 print ('nothing')
 print ('none')
+<<<<<<< HEAD
 !!!!!!!
+=======
+????????????
+>>>>>>> 78dd46e495ea014bedbca49e74bd1db4f0cda588
